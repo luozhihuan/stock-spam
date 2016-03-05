@@ -5,4 +5,7 @@ package com.whpu.service.stock.spam.service;
  */
 public interface ITestService {
     public void test();
+
+
+    public void invoke();
 }

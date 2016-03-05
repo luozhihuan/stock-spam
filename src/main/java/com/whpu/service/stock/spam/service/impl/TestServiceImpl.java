@@ -12,4 +12,8 @@ public class TestServiceImpl implements ITestService {
     public void test() {
         System.out.println("ok");
     }
+
+    public void invoke() {
+
+    }
 }
