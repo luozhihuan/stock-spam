@@ -2,3 +2,6 @@
 /target
 /.idea
 /stock-spam.iml
+/.classpath
+/.project
+/.settings/
